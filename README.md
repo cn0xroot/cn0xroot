@@ -1,7 +1,6 @@
 ### Hi there 👋
 - Twitter: https://twitter.com/cn0xroot
 - Blog: https://RadioActive.blog
-- HomePage: http://www.0xroot.cn
 
 ### Github stats
 
