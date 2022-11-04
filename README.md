@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Twitter: https://twitter.com/cn0xroot
+- Twitter: https://twitter.com/DGACRadio
 - Blog: https://RadioActive.blog
 
 ### Github stats
