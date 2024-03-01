@@ -1,5 +1,4 @@
 ### Hi there 👋
-- Twitter: https://twitter.com/0x0Radio
 - Blog: https://RadioActive.blog
 
 ### Github stats
