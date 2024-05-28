@@ -1,6 +1,5 @@
 ### Hi there 👋
-- Blog: https://RadioActive.blog
-
+- Blog: https://0x0root.com
 ### Github stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cn0xroot&show_icons=true&theme=radical)
